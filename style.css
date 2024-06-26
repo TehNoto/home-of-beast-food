@@ -1,0 +1,209 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.google2{
+    top: 30px;
+    left: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#google{
+    background: url(./img/HERO\ IMG.png) no-repeat center/cover;
+    width: 210vh;
+    height: 120vh;
+}
+.tomiris{
+    margin-top: 80px;
+    margin-left: -230px;
+}
+.popkorn{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-left: -40px;
+}
+.knopka{
+    width: 170px;
+    height: 45px;
+    margin-top: 40px;
+    left: 235px;
+    gap: 0px;
+    border-radius: 70px 70px 70px 70px;
+    opacity: 0px;
+}
+.text{
+    margin-top: 190px;
+}
+.kopil{
+    width: 170px;
+    height: 45px;
+    margin-top: 19px;
+    margin-left: 280px;
+    border-radius: 70px 70px 70px 70px;
+}
+/* .block{
+    width: 3px;
+    height: 900px;
+    margin-top: -115px;
+    margin-left: 25px;
+    background-color: blue;
+}
+.block>img{
+    width: 87px;
+height: 87px;
+margin-top: 55px;
+margin-left: 130px;
+} */
+ .block{
+    margin-top: -115px;
+ }
+ .ytr{
+    margin-left: 220px;
+ }
+ .gfg{
+    width: 444px;
+    height: 217px;
+    margin-left: 166px;
+    margin-top: 20px;
+ }
+ .img1{
+    position: absolute;
+    z-index: 1;
+    left: 735px;
+    top: 1150px;
+ }
+ .img2{
+    position: absolute;
+    z-index: 2;
+    left: 925px;
+    top: 1111px;
+ }
+ .img3{
+    position: absolute;
+    z-index: 3;
+    left: 1020px;
+    top: 1310px;
+ }
+ .img4{
+    position: absolute;
+    left: 1020px;
+    top: 1150px;
+ }
+ .jojo{
+    margin-top: 50px;
+    margin-left: 247px  ;
+ }
+ .ll{
+    margin-top: -33px;
+    margin-left: 353px;
+ }
+ .kk{
+    margin-left: 467px;
+    margin-top: -32px;
+ }
+ .gg{
+    margin-left: 228px;
+    margin-top: 15px;
+ }
+ .nn{
+    margin-left: 370px;
+    margin-top: -17px;
+ }
+ .mm{
+    margin-left: 452px;
+    margin-top: -22px;
+ }
+ #hh{
+    background: url(./img/bg.png) no-repeat center/cover;
+    width: 1420px;
+height: 357px;
+    margin-top: 190px;
+ }
+.bb{
+    margin-left: 160px;
+    margin-top: -285px;
+}
+.vv{
+    width: 157px;
+height: 47px;
+margin-top: -285px;
+margin-left: 1097px;
+color: white;
+
+}
+.ff{
+    margin-top: 250px;
+    margin-left: 100px;
+}
+.rr{
+    margin-left: 765px;
+    margin-top: -270px;
+}
+.ii{
+    margin-left: 955px;
+    margin-top: -30px;
+}
+.ww{
+    margin-left: 1170px;
+    margin-top: -13px;
+}
+.rerre{
+    margin-left: 765px;
+    margin-top: 130px;
+}
+.iop{
+    margin-left: 955px;
+    margin-top: -30px;
+}
+.wre{
+    margin-left: 1170px;
+    margin-top: -13px;
+}
+
+#der{
+    background: url(./img/Rectangle\ 9.png);
+    min-width: 100vh;
+    min-height: 100vh;
+}
+.der2{
+    margin-top: 150px;
+    padding-left: 220px;
+    padding-top: 100px;
+}
+.rty{
+    margin-left: 340px;
+    margin-top: 30px;
+}
+.ujn{
+    padding-left: 330px;
+    padding-top: 15px; 
+}
+.tgv{
+    padding-left: 348px;
+    padding-top: 15px;
+}
+.ol{
+    padding-left: 380px;
+    padding-top: 15px;
+}
+.zz{
+    margin-top: 200px;
+}
+.Clorinda2{
+    margin-top: 170px;
+    margin-left: 60px;
+}
+.wery{
+    margin-left: 927px;
+    margin-top: -523px;
+}
